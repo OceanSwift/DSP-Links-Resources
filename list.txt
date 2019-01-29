@@ -1,47 +1,9 @@
 DSP, Audio, Midi Source Codes and Open Projects
 
-Dexed JUCE/c++
-Dexed is a multi platform, multi format plugin synth that is closely modeled on the Yamaha DX7.
-https://github.com/asb2m10/dexed
+--------------------------------------------------------------------------------------
+Development Environments / IDEs / Libraries / Languages
 
-EasySSP JUCE/c++
-Small and lightweight audio visualization too
-
-DISTRHO Kars JUCE/c++
-Simple karplus-strong plucked string synth.
-https://github.com/DISTRHO/Kars
-
-DISTRHO Nekobi - JUCE/c++
-Simple single-oscillator synth based on the Roland TB-303.
-https://github.com/DISTRHO/Nekobi
-
-Maximillian - Juce/c++ Synths
-https://github.com/fedden/juceSynths
-
-Spectral Harp
-Strum the sound spectrum to create strange sounds
-https://github.com/ddf/SpectralHarp
-
-Tobante Mod Filter - JUCE/c++
-Filter plugin with modulation
-https://github.com/tobanteAudio/modFilter
-
-VCV Rack - c++
-https://github.com/VCVRack/Rack
-Open-source virtual modular synthesizer
-
-Vember Audio Surge - JUCE/c++
-https://github.com/surge-synthesizer/surge
-
-VST Simple Switch - Jamba/c++
-https://github.com/pongasoft/vst-ab-switch
-
-Tools, APIs
-
-Steinberg VSTIgui - c++
-https://github.com/steinbergmedia/vstgui
-
-Frameworks
+Chuck
 
 Blue Cat Script
 https://www.bluecataudio.com/Products/Product_PlugNScript/
@@ -76,6 +38,9 @@ https://processing.org/
 Sonic PI - Ruby
 https://sonic-pi.net/
 
+Steinberg VSTIgui - c++
+https://github.com/steinbergmedia/vstgui
+
 Synth Edit
 https://www.synthedit.com/
 
@@ -83,7 +48,7 @@ Voltage Modular SDK Java
 Modules for voltage modular
 https://cherryaudio.com/
 
-Web Frameworks
+----------------------------- Web Frameworks
 Maximillian
 
 p5js - Javascript
@@ -102,3 +67,41 @@ The Web MIDI API, developed by the W3C Audio WG
 Web Midi.js - Javascript
 WebMidi.js helps you tame the Web MIDI API. Send and receive MIDI messages with ease. 
 https://github.com/djipco/webmidi
+
+----------------------------- Open Source Audio / DSP Projects
+
+VCV Rack - c++
+https://github.com/VCVRack/Rack
+Open-source virtual modular synthesizer
+
+Vember Audio Surge - JUCE/c++
+https://github.com/surge-synthesizer/surge
+
+VST Simple Switch - Jamba/c++
+https://github.com/pongasoft/vst-ab-switch
+
+Dexed JUCE/c++
+Dexed is a multi platform, multi format plugin synth that is closely modeled on the Yamaha DX7.
+https://github.com/asb2m10/dexed
+
+EasySSP JUCE/c++
+Small and lightweight audio visualization too
+
+DISTRHO Kars JUCE/c++
+Simple karplus-strong plucked string synth.
+https://github.com/DISTRHO/Kars
+
+DISTRHO Nekobi - JUCE/c++
+Simple single-oscillator synth based on the Roland TB-303.
+https://github.com/DISTRHO/Nekobi
+
+Maximillian - Juce/c++ Synths
+https://github.com/fedden/juceSynths
+
+Spectral Harp
+Strum the sound spectrum to create strange sounds
+https://github.com/ddf/SpectralHarp
+
+Tobante Mod Filter - JUCE/c++
+Filter plugin with modulation
+https://github.com/tobanteAudio/modFilter
