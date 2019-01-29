@@ -18,6 +18,13 @@ https://github.com/DISTRHO/Nekobi
 Maximillian - Juce/c++ Synths
 https://github.com/fedden/juceSynths
 
+Spectral Harp
+Strum the sound spectrum to create strange sounds
+https://github.com/ddf/SpectralHarp
+
+https://github.com/VCVRack/Rack - c++
+Open-source virtual modular synthesizer
+
 Vember Audio Surge - JUCE/c++
 https://github.com/surge-synthesizer/surge
 
@@ -38,6 +45,9 @@ Faust - Faust
 
 Flowstone - Ruby/ASM
 http://www.dsprobotics.com/
+
+iPlug2 - c++
+https://github.com/iPlug2
 
 Jamba
 VST Plugin c++ framework
