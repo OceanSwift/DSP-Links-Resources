@@ -11,18 +11,67 @@ DISTRHO Kars JUCE/c++
 Simple karplus-strong plucked string synth.
 https://github.com/DISTRHO/Kars
 
-DISTRHO Nekobi JUCE/c++
+DISTRHO Nekobi - JUCE/c++
 Simple single-oscillator synth based on the Roland TB-303.
 https://github.com/DISTRHO/Nekobi
 
+Maximillian - Juce/c++ Synths
+https://github.com/fedden/juceSynths
+
+Vember Audio Surge - JUCE/c++
+https://github.com/surge-synthesizer/surge
+
+VST Simple Switch - Jamba/c++
+https://github.com/pongasoft/vst-ab-switch
+
+Tools, APIs
+
+Steinberg VSTIgui - c++
+https://github.com/steinbergmedia/vstgui
+
 Frameworks
-Flowstone
-Max4Live
-Juce
+
+Blue Cat Script
+https://www.bluecataudio.com/Products/Product_PlugNScript/
+
+Faust - Faust
+
+Flowstone - Ruby/ASM
+http://www.dsprobotics.com/
+
+Jamba
+VST Plugin c++ framework
+https://github.com/pongasoft/jamba
+
+Jsyn - Java
+http://www.softsynth.com/jsyn/
+
+Juce - c++
+https://juce.com/
+
+Kontakt - KSP script
+
+Max/Msp
+https://cycling74.com/products/max/
+
+Processing - Java/Javascript/Python
+https://processing.org/
+
 Synth Edit
+https://www.synthedit.com/
+
+Voltage Modular SDK Java
+Modules for voltage modular
+https://cherryaudio.com/
 
 Web Frameworks
 Maximillian
-p5js
-Tone.js
 
+p5js - Javascript
+https://p5js.org/
+
+Tone.js - Javascript
+https://tonejs.github.io/
+
+Web Audio - Javascript
+Web Midi - Javascript
