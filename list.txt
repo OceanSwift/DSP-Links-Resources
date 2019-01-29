@@ -60,12 +60,16 @@ Juce - c++
 https://juce.com/
 
 Kontakt - KSP script
+https://www.native-instruments.com/
 
 Max/Msp
 https://cycling74.com/products/max/
 
 Processing - Java/Javascript/Python
 https://processing.org/
+
+Sonic PI - Ruby
+https://sonic-pi.net/
 
 Synth Edit
 https://www.synthedit.com/
