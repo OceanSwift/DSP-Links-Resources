@@ -22,7 +22,12 @@ Spectral Harp
 Strum the sound spectrum to create strange sounds
 https://github.com/ddf/SpectralHarp
 
-https://github.com/VCVRack/Rack - c++
+Tobante Mod Filter - JUCE/c++
+Filter plugin with modulation
+https://github.com/tobanteAudio/modFilter
+
+VCV Rack - c++
+https://github.com/VCVRack/Rack
 Open-source virtual modular synthesizer
 
 Vember Audio Surge - JUCE/c++
