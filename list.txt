@@ -1,1 +1,28 @@
+DSP, Audio, Midi Source Codes and Open Projects
+
+Dexed JUCE/c++
+Dexed is a multi platform, multi format plugin synth that is closely modeled on the Yamaha DX7.
+https://github.com/asb2m10/dexed
+
+EasySSP JUCE/c++
+Small and lightweight audio visualization too
+
+DISTRHO Kars JUCE/c++
+Simple karplus-strong plucked string synth.
+https://github.com/DISTRHO/Kars
+
+DISTRHO Nekobi JUCE/c++
+Simple single-oscillator synth based on the Roland TB-303.
+https://github.com/DISTRHO/Nekobi
+
+Frameworks
+Flowstone
+Max4Live
+Juce
+Synth Edit
+
+Web Frameworks
+Maximillian
+p5js
+Tone.js
 
