@@ -88,4 +88,12 @@ Tone.js - Javascript
 https://tonejs.github.io/
 
 Web Audio - Javascript
-Web Midi - Javascript
+https://github.com/WebAudio/web-audio-api
+
+Web Midi API - 
+https://github.com/WebAudio/web-midi-api
+The Web MIDI API, developed by the W3C Audio WG
+
+Web Midi.js - Javascript
+WebMidi.js helps you tame the Web MIDI API. Send and receive MIDI messages with ease. 
+https://github.com/djipco/webmidi
