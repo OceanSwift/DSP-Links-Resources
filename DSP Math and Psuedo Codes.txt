@@ -12,6 +12,37 @@ White keys width is 0.15384 of height
 Black keys width is 0.1764 of height
 Black keys are ~0.5 the width of white keys
 
+Keys in p5js
+         fill (0);
+         kbBack = rect(0, 0, 480, 101);
+         fill (fillC1);
+         c1 = rect(0, 0, 60, 100);
+         fill (fillD1);
+         d1 = rect(60, 0, 60, 100);
+         fill (fillE1);
+         e1 = rect(120, 0, 60, 100);
+         fill (fillF1);
+         f1 = rect(180, 0, 60, 100);
+         fill (fillG1);
+         g1 = rect(240, 0, 60, 100);
+         fill (fillA1);
+         a1 = rect(300, 0, 60, 100);
+         fill (fillB1);
+         b1 = rect(360, 0, 60, 100);
+         fill (fillC2);
+         c2 = rect(420, 0, 60, 100);
+         fill (fillCs1);
+       
+         cs1 = rect(37, 0, 46, 60);
+         fill (fillDs1);
+         ds1 = rect(97, 0, 46, 60);
+         fill (fillFs1);
+         fs1 = rect(217, 0, 46, 60);
+         fill (fillGs1);
+         gs1 = rect(277, 0, 46, 60);
+         fill (fillAs1);
+         as1 = rect(337, 0, 46, 60);
+
 Linear to Log 
 y = (x²/200)*log(x)
 
