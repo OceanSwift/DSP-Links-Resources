@@ -1,6 +1,7 @@
 DSP, Audio, MIDI, OSC Resources	
 
 General Online Resources
+
 DSP Guide	http://www.dspguide.com/
 DSP Related	https://www.dsprelated.com/
 Faust	Lectire https://ccrma.stanford.edu/courses/256a-fall-2016/lectures/faust/
@@ -21,10 +22,34 @@ Web MIDI Tutorial	https://www.smashingmagazine.com/2018/03/web-midi-api/
 
 Online Courses
 
+Creative Programming with Javascript
+https://www.kadenze.com/courses/creative-programming-with-javascript
+
+Introduction to Programming for the Visual Arts with p5.js
+https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi
+
+Real-Time Audio Signal Processing in Faust
+https://www.kadenze.com/courses/real-time-audio-signal-processing-in-faust
+
 Books
+
 HTML CSS
-The CSound Book
+https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189
+
 Audio Processes
+https://www.amazon.com/Audio-Processes-Analysis-Modification-Synthesis/dp/1138100110
+
 p5js
+https://www.amazon.com/Getting-Started-p5-js-Interactive-JavaScript/dp/1457186772
+
+The CSound Book
+http://www.csounds.com/book/
+
 The MIDI Companion
+https://www.amazon.com/MIDI-Companion-Ins-Outs-Throughs/dp/0793530776/
+
+Documents	
+Flowstone Manual	http://www.dsprobotics.com/Files/V3/User%20Guide.pdf
+Kontakt KSP Manual	https://www.native-instruments.com/fileadmin/ni_media/downloads/manuals/kontakt/KONTAKT_602_KSP_Reference_Manual.pdf
+Music DSP Mailing List	http://sites.music.columbia.edu/cmc/music-dsp/
 
