@@ -15,8 +15,14 @@ Black keys are ~0.5 the width of white keys
 Linear to Log 
 y = (x²/200)*log(x)
 
+MIDI CC Chart
+http://nickfever.com/music/midi-cc-list
+
 MS to Samples
 Milliseconds * sample rate = number of samples of samples
+
+Note Frequency Chart and Math
+https://pages.mtu.edu/~suits/notefreqs.html
 
 Scaling
 newVal = (((oldVal - oldMin) * (newMax - newMin)) / (oldMax - oldMin)) + newMin
