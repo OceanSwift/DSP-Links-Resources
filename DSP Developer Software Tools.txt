@@ -34,7 +34,9 @@ Cubase https://www.steinberg.net/en/home.html
 FL Studio https://www.image-line.com/flstudio/
 Logic https://www.apple.com/lae/logic-pro/
 Pro Tools https://www.avid.com/pro-tools
+Reaper https://www.reaper.fm/
 Reason https://www.propellerheads.com/en/reason
+Renoise https://www.renoise.com/
 Studio One https://www.presonus.com/products/Studio-One
 
 Wavetable Editors	
