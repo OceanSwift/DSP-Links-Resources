@@ -75,30 +75,3 @@ https://www.synthedit.com/
 Voltage Modular SDK Java
 https://cherryaudio.com/
 
------------------------------ Web Frameworks
-MaxiLib - Javascript
-https://maxilib-reference.github.io/MaxiLib-Reference/#overview
-
-p5js - Javascript
-https://p5js.org/
-
-Tone.js - Javascript
-https://tonejs.github.io/
-
-Web Aseembly
-https://webassembly.org/
-
-Web Audio - Javascript
-https://github.com/WebAudio/web-audio-api
-
-Web Audio Componenets - Javascript
-https://github.com/web-audio-components
-
-Web Midi API - Javascript
-https://github.com/WebAudio/web-midi-api
-
-Web Midi.js - Javascript
-https://github.com/djipco/webmidi
-
-
-
