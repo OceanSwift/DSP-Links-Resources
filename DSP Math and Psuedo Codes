@@ -1,1 +1,22 @@
 
+Array strings for BPM divisors
+1/64t,1/64,1/64d,1/32t,1/32,1/32d,1/16t,1/16,1/16d,1/8t,1/8,1/8d,1/4t,1/4,1/4d,1/2t,1/2,1/2d,1bar,2bar,4bar,8bar,16bar,32bar,64bar
+
+BPM
+60,000 / BPM = one beat in milliseconds
+
+Keys
+Black Keys are 0.6296 the height of white keys
+White keys are 1.58 the height of black keys
+White keys width is 0.15384 of height
+Black keys width is 0.1764 of height
+Black keys are ~0.5 the width of white keys
+
+Linear to Log 
+y = (x²/200)*log(x)
+
+MS to Samples
+Milliseconds * sample rate = number of samples of samples
+
+Scaling
+newVal = (((oldVal - oldMin) * (newMax - newMin)) / (oldMax - oldMin)) + newMin
