@@ -76,7 +76,8 @@ Voltage Modular SDK Java
 https://cherryaudio.com/
 
 ----------------------------- Web Frameworks
-Maximillian
+MaxiLib - Javascript
+https://maxilib-reference.github.io/MaxiLib-Reference/#overview
 
 p5js - Javascript
 https://p5js.org/
@@ -87,11 +88,14 @@ https://tonejs.github.io/
 Web Audio - Javascript
 https://github.com/WebAudio/web-audio-api
 
-Web Midi API - 
+Web Audio Componenets - Javascript
+https://github.com/web-audio-components
+
+Web Midi API - Javascript
 https://github.com/WebAudio/web-midi-api
-The Web MIDI API, developed by the W3C Audio WG
 
 Web Midi.js - Javascript
-WebMidi.js helps you tame the Web MIDI API. Send and receive MIDI messages with ease. 
 https://github.com/djipco/webmidi
+
+
 
