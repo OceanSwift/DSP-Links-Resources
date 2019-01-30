@@ -15,6 +15,8 @@ Official MIDI Specification	https://www.midi.org/specifications
 Oli Larkin Link List	https://github.com/olilarkin/awesome-musicdsp
 The Audio Programmer	https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A
 Audio Programming Tutorials	https://www.youtube.com/channel/UCBOk_JOo0K0OWjwxE-zXlOQ
+Processing/p5 Forum https://discourse.processing.org/
+KSP Scripting Workshop Forum https://www.native-instruments.com/forum/forums/scripting-workshop.205/
 Romain Michon (Stanford)	https://www.youtube.com/channel/UCo75RgOEr8nwdZWjzUs3lqQ
 Waveshaper Transfer Graph	http://kevincennis.github.io/transfergraph/?
 Web Audio Book	https://smus.com/webaudio-book/
