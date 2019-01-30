@@ -85,6 +85,9 @@ https://p5js.org/
 Tone.js - Javascript
 https://tonejs.github.io/
 
+Web Aseembly
+https://webassembly.org/
+
 Web Audio - Javascript
 https://github.com/WebAudio/web-audio-api
 
