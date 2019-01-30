@@ -28,26 +28,14 @@ Audacity https://www.audacityteam.org/
 Hya Wave https://wav.hya.io/#/fx
 
 Major DAWs
-Ableton
-https://www.ableton.com/en/
-
-Bitwig
-https://www.bitwig.com/en/home.html
-
-Cubase
-https://www.steinberg.net/en/home.html
-
-FL Studio
-https://www.image-line.com/flstudio/
-
-Logic
-https://www.apple.com/lae/logic-pro/
-
-Reason
-https://www.propellerheads.com/en/reason
-
-Studio One
-https://www.presonus.com/products/Studio-One
+Ableton https://www.ableton.com/en/
+Bitwig https://www.bitwig.com/en/home.html
+Cubase https://www.steinberg.net/en/home.html
+FL Studio https://www.image-line.com/flstudio/
+Logic https://www.apple.com/lae/logic-pro/
+Pro Tools https://www.avid.com/pro-tools
+Reason https://www.propellerheads.com/en/reason
+Studio One https://www.presonus.com/products/Studio-One
 
 Wavetable Editors	
 Audio Term https://www.dropbox.com/s/czri7yth56lel0r/Audio-Term%20(1).7z?dl=0&fbclid=IwAR2U3QsG1xGzSt3WmPk3GTDOXxiUqE4ORErI4EH_vBDX-hhS_VsUqS5lyeU
