@@ -1,19 +1,25 @@
 Development Environments / IDEs / Libraries / Languages
 
+Bidule SDK
+https://www.plogue.com/
+
+Blue Cat Script
+https://www.bluecataudio.com/Products/Product_PlugNScript/
+
 Chuck
 http://chuck.cs.princeton.edu/
 
 CSound
 https://csound.com/
 
-Blue Cat Script
-https://www.bluecataudio.com/Products/Product_PlugNScript/
-
 Faust - Faust
 https://faustcloud.grame.fr/index.html
 
 Flowstone - Ruby/ASM
 http://www.dsprobotics.com/
+
+HISE
+http://www.hise.audio/
 
 iPlug2 - VST Plugin c++ framework
 https://github.com/iPlug2
@@ -30,11 +36,29 @@ https://juce.com/
 Kontakt - KSP script
 https://www.native-instruments.com/
 
+Matlab
+https://www.mathworks.com/
+
 Max/Msp
 https://cycling74.com/products/max/
 
+Octave
+https://www.gnu.org/software/octave/
+
+Open Processing
+https://www.openprocessing.org/
+
 Processing - Java/Javascript/Python
 https://processing.org/
+
+Pure Data
+https://puredata.info/
+
+Reaktor
+https://www.native-instruments.com/
+
+Scope SDK
+http://scope.zone/
 
 Sonic PI - Ruby
 https://sonic-pi.net/
@@ -49,7 +73,6 @@ Synth Edit
 https://www.synthedit.com/
 
 Voltage Modular SDK Java
-Modules for voltage modular
 https://cherryaudio.com/
 
 ----------------------------- Web Frameworks
