@@ -2,6 +2,7 @@ Free Software
 Android Studio https://developer.android.com/
 Code Blocks http://www.codeblocks.org/
 Filezilla https://filezilla-project.org/
+Icon Convert https://icoconvert.com/
 Inno Script Studio https://www.kymoto.org/products/inno-script-studio/
 Knobman	https://www.g200kg.com/jp/software/knobman.html
 Licecap	https://www.cockos.com/licecap/
