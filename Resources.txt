@@ -1,0 +1,30 @@
+DSP, Audio, MIDI, OSC Resources	
+
+General Online Resources
+DSP Guide	http://www.dspguide.com/
+DSP Related	https://www.dsprelated.com/
+Faust	Lectire https://ccrma.stanford.edu/courses/256a-fall-2016/lectures/faust/
+Faust Tutorial	http://www.grame.fr/ressources/publications/faust_tutorial.pdf
+Faust Users Mailing List	https://sourceforge.net/projects/faudiostream/lists/faudiostream-users
+Koala Kontakt KSP	https://github.com/magneto538/Koala/wiki
+KVR Development Forum	https://www.kvraudio.com/forum/viewforum.php?f=33
+Making Audio Plugins	http://www.martin-finke.de/blog/tags/making_audio_plugins.html
+Nexus JS piano keys 	http://nexus-js.github.io/ui/api/#intro
+Official MIDI Specification	https://www.midi.org/specifications
+Oli Larkin Link List	https://github.com/olilarkin/awesome-musicdsp
+The Audio Programmer	https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A
+Audio Programming Tutorials	https://www.youtube.com/channel/UCBOk_JOo0K0OWjwxE-zXlOQ
+Romain Michon (Stanford)	https://www.youtube.com/channel/UCo75RgOEr8nwdZWjzUs3lqQ
+Waveshaper Transfer Graph	http://kevincennis.github.io/transfergraph/?
+Web Audio Book	https://smus.com/webaudio-book/
+Web MIDI Tutorial	https://www.smashingmagazine.com/2018/03/web-midi-api/
+
+Online Courses
+
+Books
+HTML CSS
+The CSound Book
+Audio Processes
+p5js
+The MIDI Companion
+
