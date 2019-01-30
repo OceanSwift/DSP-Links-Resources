@@ -1,29 +1,30 @@
-DSP, Audio, Midi Source Codes and Open Projects
-
---------------------------------------------------------------------------------------
 Development Environments / IDEs / Libraries / Languages
 
 Chuck
+http://chuck.cs.princeton.edu/
+
+CSound
+https://csound.com/
 
 Blue Cat Script
 https://www.bluecataudio.com/Products/Product_PlugNScript/
 
 Faust - Faust
+https://faustcloud.grame.fr/index.html
 
 Flowstone - Ruby/ASM
 http://www.dsprobotics.com/
 
-iPlug2 - c++
+iPlug2 - VST Plugin c++ framework
 https://github.com/iPlug2
 
-Jamba
-VST Plugin c++ framework
+Jamba - VST Plugin c++ framework
 https://github.com/pongasoft/jamba
 
 Jsyn - Java
 http://www.softsynth.com/jsyn/
 
-Juce - c++
+Juce - VST Plugin c++ framework
 https://juce.com/
 
 Kontakt - KSP script
@@ -40,6 +41,9 @@ https://sonic-pi.net/
 
 Steinberg VSTIgui - c++
 https://github.com/steinbergmedia/vstgui
+
+Super Collider
+http://supercollider.github.io/
 
 Synth Edit
 https://www.synthedit.com/
