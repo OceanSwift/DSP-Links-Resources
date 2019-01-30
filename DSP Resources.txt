@@ -22,6 +22,9 @@ Waveshaper Transfer Graph	http://kevincennis.github.io/transfergraph/?
 Web Audio Book	https://smus.com/webaudio-book/
 Web MIDI Tutorial	https://www.smashingmagazine.com/2018/03/web-midi-api/
 
+Licenses
+https://opensource.org/licenses
+
 Online Courses
 
 Creative Programming with Javascript
