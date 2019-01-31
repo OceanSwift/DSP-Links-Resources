@@ -12,6 +12,9 @@ http://nexus-js.github.io/
 p5js - Javascript
 https://p5js.org/
 
+p5js OSC - Javascript
+https://github.com/genekogan/p5js-osc
+
 Tone.js - Javascript
 https://tonejs.github.io/
 
