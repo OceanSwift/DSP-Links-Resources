@@ -57,3 +57,7 @@ https://pages.mtu.edu/~suits/notefreqs.html
 
 Scaling
 newVal = (((oldVal - oldMin) * (newMax - newMin)) / (oldMax - oldMin)) + newMin
+
+Wavetable Creation
+44100/2048 ≈ 21.5332Hz use F0 – 23c ≈ 21.5387Hz
+48000/2048 = 23.4375Hz use F#0 + 23c ≈ 23.4339Hz
