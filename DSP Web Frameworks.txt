@@ -6,6 +6,9 @@ https://jquery.com/
 MaxiLib - Javascript
 https://maxilib-reference.github.io/MaxiLib-Reference/#overview
 
+Math.js - Javascript
+http://mathjs.org/
+
 Nexus.js - Javascript
 http://nexus-js.github.io/
 
