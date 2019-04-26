@@ -15,6 +15,7 @@ Sublime Merge https://www.sublimemerge.com/
 Sublime Text 3 https://www.sublimetext.com/3
 Teamviewer https://www.teamviewer.com
 Visual Sutdio Code https://code.visualstudio.com
+Waveform SVG / PNG Generator https://github.com/irh/svg-waveforms
 Wireshark https://www.wireshark.org/
 	
 Free DAWS	
