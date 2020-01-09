@@ -233,9 +233,54 @@ Milliseconds * sample rate = number of samples of samples
 Note Frequency Chart and Math
 https://pages.mtu.edu/~suits/notefreqs.html
 
+Pan KSP
+function panCalc
+	$panningL := (real_to_int (1000000.0 * (sqrt(1.0 - (int_to_real($pan) / 1000000.0)   ))) )
+	$panningR := (real_to_int (1000000.0 * (sqrt(int_to_real($pan) / 1000000.0   ))) )
+end function
+
 Scaling
 newVal = (((oldVal - oldMin) * (newMax - newMin)) / (oldMax - oldMin)) + newMin
 
 Wavetable Creation
 44100/2048 ≈ 21.5332Hz use F0 – 23c ≈ 21.5387Hz
 48000/2048 = 23.4375Hz use F#0 + 23c ≈ 23.4339Hz
+
+Vector Synthesis Flowstone DSP Code
+streamin xLfo;
+streamin yLfo;
+streamout a;
+streamout b;
+streamout c;
+streamout d;
+
+float sum;
+float aVal;
+float bVal;
+float cVal;
+float dVal;
+
+aVal = (1 - xLfo)*(1 - yLfo);
+bVal = (1 - (1 - xLfo))*(1 - yLfo);
+cVal = (1 - xLfo)*(1-(1 - yLfo));
+dVal = (1-(1 - xLfo))*(1-(1 - yLfo));
+
+sum = aVal+bVal+cVal+dVal;
+
+a = aVal/sum;
+b = bVal/sum;
+c = cVal/sum;
+d = dVal/sum;
+
+Vector Synthesis KSP
+function vectorCalc
+	~valA := (1.0-?xy[0])*(1.0-(1.0-?xy[1]))
+	~valB := (1.0-(1.0-?xy[0]))*(1.0-(1.0-?xy[1]))
+	~valC := (1.0-?xy[0])*(1.0-?xy[1]) 
+	~valD := (1.0-(1.0-?xy[0]))*(1.0-?xy[1])
+	~sum := ~valA + ~valB + ~valC + ~valD
+	$sliderA := real_to_int(1000000.0*(~valA / ~sum))
+	$sliderB := real_to_int(1000000.0*(~valB / ~sum))
+	$sliderC := real_to_int(1000000.0*(~valC / ~sum))
+	$sliderD := real_to_int(1000000.0*(~valD / ~sum))
+end function
