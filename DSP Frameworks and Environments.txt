@@ -18,6 +18,9 @@ https://faustcloud.grame.fr/index.html
 Flowstone - Ruby/ASM
 http://www.dsprobotics.com/
 
+Gorilla Engine
+https://gorilla-engine.com/
+
 HISE
 http://www.hise.audio/
 
@@ -63,11 +66,17 @@ http://scope.zone/
 Sonic PI - Ruby
 https://sonic-pi.net/
 
+SOUL
+https://github.com/soul-lang/SOUL/blob/master/docs/SOUL_Overview.md
+
 Steinberg VSTIgui - c++
 https://github.com/steinbergmedia/vstgui
 
 Super Collider
 http://supercollider.github.io/
+
+Superpowered
+https://superpowered.com/
 
 Synth Edit
 https://www.synthedit.com/
