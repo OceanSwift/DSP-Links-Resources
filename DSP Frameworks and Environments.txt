@@ -84,6 +84,9 @@ https://superpowered.com/
 Synth Edit
 https://www.synthedit.com/
 
+VCV Rack - c++
+https://vcvrack.com/
+
 Voltage Modular SDK Java
 https://cherryaudio.com/
 
