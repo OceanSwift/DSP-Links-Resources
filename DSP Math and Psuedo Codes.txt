@@ -2,11 +2,17 @@
 Array strings for BPM divisors
 1/64t,1/64,1/64d,1/32t,1/32,1/32d,1/16t,1/16,1/16d,1/8t,1/8,1/8d,1/4t,1/4,1/4d,1/2t,1/2,1/2d,1bar,2bar,4bar,8bar,16bar,32bar,64bar
 
+-------------------------------------
+
 Array strings for BPM divisors other way around 0-21
 var divStrings = ["1/32t","1/32","1/32d","1/16t","1/16","1/16d","1/8t","1/8","1/8d","1/4t","1/4","1/4d","1/2t","1/2","1/2d","1bar","2bar","4bar","8bar","16bar","32bar","64bar"];
 
+-------------------------------------
+
 Tempo Division values fast to slow 1/32t to 64 bars 0-21
 var divValues = [0.084,0.125,0.188,0.166,0.25,0.376,0.333,0.5,0.75,0.666,1,1.5,1.33,2,3,4,8,16,32,64,128,256]
+
+-------------------------------------
 
 String Array JUCE C++ 0-21
  StringArray divStrings =
@@ -34,9 +40,14 @@ String Array JUCE C++ 0-21
     TRANS ("32bar"),
     TRANS ("64bar")
     };
+    
+
+-------------------------------------    
 
 Sample Rates Array JS
 var sampleRates = ["8000","11025","16000","22050","32000","37800","44056","44100","48000","88200","96000","176400","192000","352800"]
+
+-------------------------------------
 
 Sample Rates Array Juce C++
  StringArray srStrings =
@@ -57,8 +68,12 @@ Sample Rates Array Juce C++
     TRANS ("352800")
     };
 
+-------------------------------------
+
 Note names Array - JS
 var noteStrings = ["C0","C#0","D0","D#0","E0","F0","F#0","G0","G#0","A0","A#0","B0","C1","C#1","D1","D#1","E1","F1","F#1","G1","G#1","A1","A#1","B1","C2","C#2","D2","D#2","E2","F2","F#2","G2","G#2","A2","A#2","B2","C3","C#3","D3","D#3","E3","F3","F#3","G3","G#3","A3","A#3","B3","C4","C#4","D4","D#4","E4","F4","F#4","G4","G#4","A4","A#4","B4","C5","C#5","D5","D#5","E5","F5","F#5","G5","G#5","A5","A#5","B5","C6","C#6","D6","D#6","E6","F6","F#6","G6","G#6","A6","A#6","B6","C7","C#7","D7","D#7","E7","F7","F#7","G7","G#7","A7","A#7","B7","C8","C#8","D8","D#8","E8","F8","F#8","G8","G#8","A8","A#8","B8"]
+
+-------------------------------------
 
 Note names Array - JUCE C++
 StringArray noteStrings =
@@ -173,15 +188,23 @@ StringArray noteStrings =
     TRANS ("B8")
     };
 
+-------------------------------------
+
 Tuning values array
 var tuningValues = [440,415,432,434,436,438,441,442,443,444,446,448]
+
+-------------------------------------
 
 Music Scales Arrays
 var scales = ["Major","Natural Minor","Melodic Minor Asc","Melodic Minor Desc","Harmonic Minor","Major Pentatonic","Minor Pentatonic","Minor Blues","Major Blues","Ionian","Dorian","Lydian","Phrygian","Phrygian Dominant","Mixolydian","Aeolian","Aeolian Dominant","Locrian","Super Locrian","Byzantine","Balinese Pelog","Chinese","Diminished","Dominant Diminish","Egyptian","Eight Tone Spanish","Geez","Japanese","Hirajoshi","Oriental","Romanian","Yo"]
 
+-------------------------------------
+
 BPM
 60,000 / BPM = one beat in milliseconds
 BPM / 60 = 1/4 tempo division time
+
+-------------------------------------
 
 Keys
 Black Keys are 0.6296 the height of white keys
@@ -189,6 +212,8 @@ White keys are 1.58 the height of black keys
 White keys width is 0.15384 of height
 Black keys width is 0.1764 of height
 Black keys are ~0.5 the width of white keys
+
+-------------------------------------
 
 Keys in p5js
          fill (0);
@@ -221,17 +246,27 @@ Keys in p5js
          fill (fillAs1);
          as1 = rect(337, 0, 46, 60);
 
+-------------------------------------
+
 Linear to Log 
 y = (x²/200)*log(x)
+
+-------------------------------------
 
 MIDI CC Chart
 http://nickfever.com/music/midi-cc-list
 
+-------------------------------------
+
 MS to Samples
 Milliseconds * sample rate = number of samples of samples
 
+-------------------------------------
+
 Note Frequency Chart and Math
 https://pages.mtu.edu/~suits/notefreqs.html
+
+-------------------------------------
 
 Pan KSP
 function panCalc
@@ -239,12 +274,18 @@ function panCalc
 	$panningR := (real_to_int (1000000.0 * (sqrt(int_to_real($pan) / 1000000.0   ))) )
 end function
 
+-------------------------------------
+
 Scaling
 newVal = (((oldVal - oldMin) * (newMax - newMin)) / (oldMax - oldMin)) + newMin
+
+-------------------------------------
 
 Wavetable Creation
 44100/2048 ≈ 21.5332Hz use F0 – 23c ≈ 21.5387Hz
 48000/2048 = 23.4375Hz use F#0 + 23c ≈ 23.4339Hz
+
+-------------------------------------
 
 Vector Synthesis Flowstone DSP Code
 streamin xLfo;
@@ -271,6 +312,8 @@ a = aVal/sum;
 b = bVal/sum;
 c = cVal/sum;
 d = dVal/sum;
+
+-------------------------------------
 
 Vector Synthesis KSP
 function vectorCalc
