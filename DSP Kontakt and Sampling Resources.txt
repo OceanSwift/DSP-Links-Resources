@@ -1,3 +1,6 @@
+
+Kontakt ------------------------------------------------
+
 Creator Tools Utilities
 https://github.com/Yaron-NI/Kontakt-Public
 
@@ -28,3 +31,10 @@ https://blog.yummybeats.com/ksp-kontakt-scripting/
 Kontakt Scripting Facebook Group
 https://www.facebook.com/groups/704558249649073/
 
+Sampling ------------------------------------------------
+
+BLISS - autosampling
+https://www.discodsp.com/bliss/
+
+Sample Robot = autosampling
+https://samplerobot.com/
