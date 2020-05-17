@@ -4,6 +4,10 @@ Kontakt ------------------------------------------------
 Creator Tools Utilities
 https://github.com/Yaron-NI/Kontakt-Public
 
+Creator Tools Overview
+https://www.youtube.com/watch?v=ShLcw7-b5DU - Part 1
+https://www.youtube.com/watch?v=RMqiucxhk-s - Part 2
+
 Kontakt User Manual + KSP Reference Manual + Creator Tools Manual
 https://www.native-instruments.com/en/products/komplete/samplers/kontakt-6/downloads/
 
