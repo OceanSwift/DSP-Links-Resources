@@ -1,11 +1,14 @@
-Arduino
+Arduino - Platform
 https://www.arduino.cc/
 
-BELA
+BELA - Audio Platform
 https://bela.io/
 
-Dream - DSP HW Platofrm
+Dream - DSP HW Platform
 https://www.dream.fr/
 
-Elk AudioOS
+Elk AudioOS - Embedded OS
 https://elk.audio/
+
+Profusionplc - HW Audio parts
+https://www.profusionplc.com/
