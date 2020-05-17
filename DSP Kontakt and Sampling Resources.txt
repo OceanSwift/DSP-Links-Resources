@@ -1,11 +1,8 @@
 Creator Tools Utilities
 https://github.com/Yaron-NI/Kontakt-Public
 
-Kontakt User Manual
-https://www.native-instruments.com/fileadmin/ni_media/downloads/manuals/KONTAKT_5_6_8_Manual_English.pdf
-
-KSP Reference Manual
-https://www.native-instruments.com/fileadmin/ni_media/downloads/manuals/kontakt/KONTAKT_602_KSP_Reference_Manual.pdf
+Kontakt User Manual + KSP Reference Manual + Creator Tools Manual
+https://www.native-instruments.com/en/products/komplete/samplers/kontakt-6/downloads/
 
 Nil's Liberg KSP Tutorial
 https://nilsliberg.se/ksp/scripts/tutorial/
@@ -30,3 +27,4 @@ https://blog.yummybeats.com/ksp-kontakt-scripting/
 
 Kontakt Scripting Facebook Group
 https://www.facebook.com/groups/704558249649073/
+
