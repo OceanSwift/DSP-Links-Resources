@@ -1,0 +1,11 @@
+Arduino
+https://www.arduino.cc/
+
+BELA
+https://bela.io/
+
+Dream - DSP HW Platofrm
+https://www.dream.fr/
+
+Elk AudioOS
+https://elk.audio/
